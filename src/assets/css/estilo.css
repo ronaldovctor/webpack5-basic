@@ -1,0 +1,7 @@
+body {
+    background: #000331;
+    background-image: url(../imgs/cod3r_logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
